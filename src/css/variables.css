@@ -1,0 +1,8 @@
+:root {
+  --background-color:  rgba(67, 78, 222, 1);
+  --background-card: rgba(255, 255, 255, 1);
+  --first-text-color:rgba(0, 0, 0, 1);
+  --second-text-color:rgba(113, 115, 122,1);
+  --shadow: 5px 5px 10px rgba(0, 0, 0, 0.212)
+}
+
